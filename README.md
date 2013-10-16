@@ -1,7 +1,10 @@
 EXIFzero
 ========
 
-Zero out EXIF data to anonymize your photos. Works on files with jpg, jpeg, JPG, JPEG extensions.
+Zero out EXIF to anonymize your photos. Removes identifiable metadata on location, time, camera, and mobile device.
+
+Works on files with jpg, jpeg, JPG, JPEG extensions.
+
 
 Usage:
 
